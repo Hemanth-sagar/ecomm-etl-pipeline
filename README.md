@@ -97,4 +97,4 @@ sys.path.append("/Workspace/Repos/your.email@company.com/ecomm-etl-pipeline")
 ---
 
 ## Author
-Built as a portfolio project — feel free to [connect on LinkedIn!](https://www.linkedin.com/in/your-username)
+Built as a portfolio project — feel free to [connect on LinkedIn!](https://www.linkedin.com/in/padamatihemanth/)
