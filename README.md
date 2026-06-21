@@ -29,7 +29,7 @@ ecomm-etl-pipeline/
 
 ├── notebooks/
 
-│   ├── 01_orders_stage_load.py         # Ingest & validate orders
+│   ├── 01_orders_stage_load.py         #Ingest & validate orders
 
 │   ├── 02_customers_stage_load.py      # Ingest & validate customers
 
